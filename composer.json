@@ -1,0 +1,10 @@
+{
+    "require": {
+        "spatie/laravel-permission": "^1.18"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
